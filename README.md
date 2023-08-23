@@ -12,4 +12,4 @@ DevFinder is an app where you can search github users by their username.
 * Information such as  name, number of repos, location and other information will be displayed .
 
 # Project Output
-![DevFinder](./about%20the%20project/screenshots/desktop-dark.jpeg "DevFinder Project Output")
+![DevFinder](./about_the_project/screenshots/desktop-dark.jpeg "DevFinder Project Output")
